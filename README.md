@@ -20,6 +20,9 @@ location: "India"
 education:
   university: "National Institute of Technology, Hamirpur"
   degree: "BTech in Mechanical Engineering"
+experience:
+  role: "Advanced Application Engineer", "Accenture"
+  
 currently_learning:
   - "gRPC & Protocol Buffers with Golang"
   - "Apache Kafka 4.0"
