@@ -26,7 +26,7 @@ currently_learning:
   - "gRPC & Protocol Buffers with Golang"
   - "Apache Kafka 4.0"
 interested_in:
-  - "Post-Production", "Coding", "Financial Markets", "Music", "Binge watching"
+  - "Post-Production", "Coding", "Gaming", "Music", "Binge watching"
 
 ```
 
