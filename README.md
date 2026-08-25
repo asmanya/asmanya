@@ -23,8 +23,8 @@ education:
 experience:
   role: "Advanced Application Engineer", "Accenture"
 currently_learning:
+  - "p2p file distribution protocol"
   - "gRPC & Protocol Buffers with Golang"
-  - "Apache Kafka 4.0"
 interested_in:
   - "Post-Production", "Coding", "Gaming", "Music", "Binge watching"
 
