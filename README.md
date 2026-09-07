@@ -1,119 +1,68 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400"/>
-</div>
+<img src="assets/hero-dark.svg#gh-dark-mode-only" alt="Asmanya Sharma — Software Engineer" width="100%">
+<img src="assets/hero-light.svg#gh-light-mode-only" alt="Asmanya Sharma — Software Engineer" width="100%">
+
+<img src="assets/sec-overview-dark.svg#gh-dark-mode-only" alt="Overview" width="100%">
+<img src="assets/sec-overview-light.svg#gh-light-mode-only" alt="Overview" width="100%">
+
+Software Engineer focused on backend systems, peer-to-peer networking, network protocols, and Go.
+
+Currently an Advanced Application Engineer at Accenture.
+
+Interested in building backend systems around APIs, routing, middleware, and concurrency while exploring the layers beneath the abstraction: sockets, byte-level systems, and distributed communication.
+
+Off the clock: guitar, gaming, post-production, colour grading, music.
+
+<a href="https://github.com/asmanya"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/GitHub-asmanya-grey.svg?variant=outline&font=geist&mode=dark&logo=github&logoColor=8b8b93"><img alt="GitHub" src="https://shieldcn.dev/badge/GitHub-asmanya-grey.svg?variant=outline&font=geist&mode=light&logo=github&logoColor=8b8b93"></picture></a>
+<a href="https://www.linkedin.com/in/asmanya/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/LinkedIn-asmanya-grey.svg?variant=outline&font=geist&mode=dark&logo=false"><img alt="LinkedIn" src="https://shieldcn.dev/badge/LinkedIn-asmanya-grey.svg?variant=outline&font=geist&mode=light&logo=false"></picture></a>
+<a href="https://x.com/asmanya_"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/X-asmanya-grey.svg?variant=outline&font=geist&mode=dark&logo=x&logoColor=8b8b93"><img alt="X" src="https://shieldcn.dev/badge/X-asmanya-grey.svg?variant=outline&font=geist&mode=light&logo=x&logoColor=8b8b93"></picture></a>
+<a href="https://leetcode.com/u/asmanya/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/LeetCode-asmanya-grey.svg?variant=outline&font=geist&mode=dark&logo=leetcode&logoColor=8b8b93"><img alt="LeetCode" src="https://shieldcn.dev/badge/LeetCode-asmanya-grey.svg?variant=outline&font=geist&mode=light&logo=leetcode&logoColor=8b8b93"></picture></a>
+<a href="https://medium.com/@asmanya"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Medium-asmanya-grey.svg?variant=outline&font=geist&mode=dark&logo=medium&logoColor=8b8b93"><img alt="Medium" src="https://shieldcn.dev/badge/Medium-asmanya-grey.svg?variant=outline&font=geist&mode=light&logo=medium&logoColor=8b8b93"></picture></a>
+
+<img src="assets/sec-currently-dark.svg#gh-dark-mode-only" alt="Currently" width="100%">
+<img src="assets/sec-currently-light.svg#gh-light-mode-only" alt="Currently" width="100%">
+
+<img src="assets/currently-dark.svg#gh-dark-mode-only" alt="Now building P2P File Distribution; learning gRPC and Protobuf" width="100%">
+<img src="assets/currently-light.svg#gh-light-mode-only" alt="Now building P2P File Distribution; learning gRPC and Protobuf" width="100%">
+
+<img src="assets/sec-stack-dark.svg#gh-dark-mode-only" alt="Stack" width="100%">
+<img src="assets/sec-stack-light.svg#gh-light-mode-only" alt="Stack" width="100%">
+
+<img src="assets/stack-dark.svg#gh-dark-mode-only" alt="Languages, backend and protocols, frontend, infrastructure, design" width="100%">
+<img src="assets/stack-light.svg#gh-light-mode-only" alt="Languages, backend and protocols, frontend, infrastructure, design" width="100%">
+
+<img src="assets/sec-experience-dark.svg#gh-dark-mode-only" alt="Experience" width="100%">
+<img src="assets/sec-experience-light.svg#gh-light-mode-only" alt="Experience" width="100%">
+
+<img src="assets/experience-dark.svg#gh-dark-mode-only" alt="Accenture — Advanced Application Engineer. NIT Hamirpur — BTech Mechanical" width="100%">
+<img src="assets/experience-light.svg#gh-light-mode-only" alt="Accenture — Advanced Application Engineer. NIT Hamirpur — BTech Mechanical" width="100%">
+
+<img src="assets/sec-projects-dark.svg#gh-dark-mode-only" alt="Projects" width="100%">
+<img src="assets/sec-projects-light.svg#gh-light-mode-only" alt="Projects" width="100%">
+
+### P2P File Distribution Protocol
+
+<sub>Go &nbsp;·&nbsp; In progress</sub>
+
+A BitTorrent v1 client written from scratch. No third-party torrent libraries.
+
+- Bencode encoder/decoder and `.torrent` metainfo parsing
+- HTTP tracker communication and peer discovery
+- Peer wire protocol: handshake, bitfield, request/piece messaging
+- Concurrent piece downloading with SHA-1 verification
+
+<img src="assets/tags-project-dark.svg#gh-dark-mode-only" alt="Go, Concurrency, TCP, Binary Protocols, SHA-1" width="100%">
+<img src="assets/tags-project-light.svg#gh-light-mode-only" alt="Go, Concurrency, TCP, Binary Protocols, SHA-1" width="100%">
+
+<img src="assets/chart-pipeline-dark.svg#gh-dark-mode-only" alt="Download pipeline" width="100%">
+<img src="assets/chart-pipeline-light.svg#gh-light-mode-only" alt="Download pipeline" width="100%">
+
+<sub><i>Fig. 1. How a file moves through the client.</i></sub>
 
 
-<p align="center">
+<img src="assets/sec-activity-dark.svg#gh-dark-mode-only" alt="Activity" width="100%">
+<img src="assets/sec-activity-light.svg#gh-light-mode-only" alt="Activity" width="100%">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=DA70D6&background=6883FF00&center=true&vCenter=true&random=false&width=600&lines=I'm+Asmanya+Sharma;Aspiring+Software+Engineer" alt="Typing SVG" />
-</a>
+<img src="https://shieldcn.dev/chart/github/commits/asmanya.svg?font=geist&area=true&border=false&bg=transparent&height=220&width=1200&color=FAFAFA&fill=1C1C21&mode=dark#gh-dark-mode-only" alt="Cumulative commits over the years" width="100%">
+<img src="https://shieldcn.dev/chart/github/commits/asmanya.svg?font=geist&area=true&border=false&bg=transparent&height=220&width=1200&color=09090B&fill=E7E7EA&mode=light#gh-light-mode-only" alt="Cumulative commits over the years" width="100%">
 
-
-
-#
-![](https://komarev.com/ghpvc/?username=asmanya&label=PROFILE+VIEWS&color=ff69b4&style=flat-square)
-
-``` yaml
-name: "Asmanya Sharma"
-location: "India"
-education:
-  university: "National Institute of Technology, Hamirpur"
-  degree: "BTech in Mechanical Engineering"
-experience:
-  role: "Advanced Application Engineer", "Accenture"
-currently_learning:
-  - "p2p file distribution protocol"
-  - "gRPC & Protocol Buffers with Golang"
-interested_in:
-  - "Post-Production", "Coding", "Gaming", "Music", "Binge watching"
-
-```
-
-<!--
-#past_experiences:
-  #- role: ""
-  #- role: "", ""
-  #- achievement: "", ""
-  #- achievement: "", ""
--->
-
-
-## 🌐 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/asmanya/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://leetcode.com/u/asmanya/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-</a>
-<a href="https://x.com/asmanya_" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://www.instagram.com/asmanya_/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://medium.com/@asmanya" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-</a>
-
-</p>
-
-<br>
-
-
-## 🛠️ Languages and Tools:
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-0C9D58?style=for-the-badge&logo=grpc&logoColor=white)
-![ProtocolBuffer](https://img.shields.io/badge/Protocol%20Buffers-0052FF?style=for-the-badge&logo=protocol-buffers&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23000000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-563d7c?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![AfterEffects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![DaVinci](https://img.shields.io/badge/DaVinci%20Resolve-0047AB?style=for-the-badge&logo=blackmagic-design&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-<br>
-
-## 🐱 My GitHub Stats:
-<!-- <br>
-<div align="center">
-  <img src="" alt="Code Time" />
-  <img src="" alt="Lines of Code" />
-</div> -->
-<br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=asmanya&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmanya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asmanya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-## 
-[![asmanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asmanya&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-##
-
-<div align="center">
-   <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=DA70D6&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
-   </a>
-   
-   <h3>If you understood this, you’re either a genius or very confused.</h3>
-</div>
+<sub><i>Fig. 2. Cumulative commits over the years. Source: <a href="https://github.com/asmanya">GitHub</a>.</i></sub>
