@@ -21,43 +21,20 @@ Off the clock: guitar, gaming, post-production, colour grading, music.
 <img src="assets/sec-currently-dark.svg#gh-dark-mode-only" alt="Currently" width="100%">
 <img src="assets/sec-currently-light.svg#gh-light-mode-only" alt="Currently" width="100%">
 
-<img src="assets/currently-dark.svg#gh-dark-mode-only" alt="Now building P2P File Distribution; learning gRPC and Protobuf" width="100%">
-<img src="assets/currently-light.svg#gh-light-mode-only" alt="Now building P2P File Distribution; learning gRPC and Protobuf" width="100%">
+<img src="assets/currently-dark.svg#gh-dark-mode-only" alt="Now: contributing to open source. Learning: gRPC and Protobuf" width="100%">
+<img src="assets/currently-light.svg#gh-light-mode-only" alt="Now: contributing to open source. Learning: gRPC and Protobuf" width="100%">
 
 <img src="assets/sec-stack-dark.svg#gh-dark-mode-only" alt="Stack" width="100%">
 <img src="assets/sec-stack-light.svg#gh-light-mode-only" alt="Stack" width="100%">
 
-<img src="assets/stack-dark.svg#gh-dark-mode-only" alt="Languages, backend and protocols, frontend, infrastructure, design" width="100%">
-<img src="assets/stack-light.svg#gh-light-mode-only" alt="Languages, backend and protocols, frontend, infrastructure, design" width="100%">
+<img src="assets/stack-dark.svg#gh-dark-mode-only" alt="Languages, backend and protocols, infrastructure, design" width="100%">
+<img src="assets/stack-light.svg#gh-light-mode-only" alt="Languages, backend and protocols, infrastructure, design" width="100%">
 
 <img src="assets/sec-experience-dark.svg#gh-dark-mode-only" alt="Experience" width="100%">
 <img src="assets/sec-experience-light.svg#gh-light-mode-only" alt="Experience" width="100%">
 
 <img src="assets/experience-dark.svg#gh-dark-mode-only" alt="Accenture — Advanced Application Engineer. NIT Hamirpur — BTech Mechanical" width="100%">
 <img src="assets/experience-light.svg#gh-light-mode-only" alt="Accenture — Advanced Application Engineer. NIT Hamirpur — BTech Mechanical" width="100%">
-
-<img src="assets/sec-projects-dark.svg#gh-dark-mode-only" alt="Projects" width="100%">
-<img src="assets/sec-projects-light.svg#gh-light-mode-only" alt="Projects" width="100%">
-
-### P2P File Distribution Protocol
-
-<sub>Go &nbsp;·&nbsp; In progress</sub>
-
-A BitTorrent v1 client written from scratch. No third-party torrent libraries.
-
-- Bencode encoder/decoder and `.torrent` metainfo parsing
-- HTTP tracker communication and peer discovery
-- Peer wire protocol: handshake, bitfield, request/piece messaging
-- Concurrent piece downloading with SHA-1 verification
-
-<img src="assets/tags-project-dark.svg#gh-dark-mode-only" alt="Go, Concurrency, TCP, Binary Protocols, SHA-1" width="100%">
-<img src="assets/tags-project-light.svg#gh-light-mode-only" alt="Go, Concurrency, TCP, Binary Protocols, SHA-1" width="100%">
-
-<img src="assets/chart-pipeline-dark.svg#gh-dark-mode-only" alt="Download pipeline" width="100%">
-<img src="assets/chart-pipeline-light.svg#gh-light-mode-only" alt="Download pipeline" width="100%">
-
-<sub><i>Fig. 1. How a file moves through the client.</i></sub>
-
 
 <img src="assets/sec-activity-dark.svg#gh-dark-mode-only" alt="Activity" width="100%">
 <img src="assets/sec-activity-light.svg#gh-light-mode-only" alt="Activity" width="100%">
